@@ -1,0 +1,17 @@
+﻿{
+    "version": 1750728710,
+    "pool": {
+        "00": {
+            "count": 12,
+            "name": "Stock Photos"
+        },
+        "01": {
+            "count": 20,
+            "name": "Memes (captionless)"
+        },
+        "02": {
+            "count": 16,
+            "name": "Memes (with captions)"
+        }
+    }
+}
