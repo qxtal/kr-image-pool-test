@@ -1,17 +1,23 @@
 ﻿{
-    "version": 1750728710,
+    "version": 1750822003,
     "pool": {
-        "00": {
-            "count": 12,
-            "name": "Stock Photos"
+        "categories": {
+            "00": {
+                "index": 0,
+                "name": "Stock Photos",
+                "length": 12
+            },
+            "01": {
+                "index": 12,
+                "name": "Memes (captionless)",
+                "length": 20
+            },
+            "02": {
+                "index": 32,
+                "name": "Memes (with captions)",
+                "length": 16
+            }
         },
-        "01": {
-            "count": 20,
-            "name": "Memes (captionless)"
-        },
-        "02": {
-            "count": 16,
-            "name": "Memes (with captions)"
-        }
+        "total_length": 48
     }
 }
