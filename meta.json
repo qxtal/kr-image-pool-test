@@ -1,21 +1,21 @@
-{
-    "version": 1750823200,
+﻿{
+    "version": 1750846751,
     "pool": {
         "base_url": "https://qxtal.github.io/kr-image-pool-test",
         "categories": [
             {
-                "index": 0,
                 "name": "Stock Photos",
+                "index": 0,
                 "length": 12
             },
             {
-                "index": 12,
                 "name": "Memes (captionless)",
+                "index": 12,
                 "length": 20
             },
             {
-                "index": 32,
                 "name": "Memes (with captions)",
+                "index": 32,
                 "length": 16
             }
         ],
